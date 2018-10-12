@@ -36,3 +36,4 @@ def getHTMLText(url):
   if __name__=="__main__"
        url="网址"
        print(getHTMLText(url))
+```
